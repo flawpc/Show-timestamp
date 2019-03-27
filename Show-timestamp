@@ -1,0 +1,1 @@
+javascript:if(frames.length<1){alert('The server indicates that the page was last modified: ' + document.lastModified)}else{alert('Page is framed. Use version of bookmarklet for frames. (bookmarklets.com)')}
